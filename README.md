@@ -32,7 +32,4 @@ iphone.InstallApp("Facebook");
 - **ReceiveCall()** : Simulates receiving a call.
 - **InstallApp(string appName)** : Installs the specified app.
 
-```bash
-git clone https://github.com/yourusername/ChallengeOOP.git
-cd ChallengeOOP
 
